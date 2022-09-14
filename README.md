@@ -2,4 +2,4 @@
 markdown learning ES6
 
 
-main ref: ruanyifeng.com
+main ref: >ruanyifeng.com
